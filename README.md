@@ -19,7 +19,7 @@ No `pip install` needed.
 Just grab the script:
 
 ```bash
-curl -O https://raw.githubusercontent.com/mmrry/sfl-tracklist/main/abcau-radio_playlist.py
+curl -O https://raw.githubusercontent.com/mmrry/ABC-AU_radio_playlist_parse/main/abcau-radio_playlist.py
 chmod +x abcau-radio_playlist.py
 ```
 
